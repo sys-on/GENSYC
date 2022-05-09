@@ -9,7 +9,7 @@ BARRA="\033[1;36m---------------------------------------------------------------
 echo -e "$BARRA"
 cat << EOF
 
-           NEW KEY GENERATOR BY FLYS ANDROID
+           NEW KEY GENERATOR BY SYS ANDROID
            INSTALACOES: $(cat $IVAR)
            
 EOF
